@@ -1,0 +1,26 @@
+{
+  "name": "fcc-request-headers-microservice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GianCastle/fcc-request-headers.git"
+  },
+  "keywords": [
+    "js",
+    "javascript"
+  ],
+  "author": "Giancarlos Castillo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GianCastle/fcc-request-headers/issues"
+  },
+  "homepage": "https://github.com/GianCastle/fcc-request-headers#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
